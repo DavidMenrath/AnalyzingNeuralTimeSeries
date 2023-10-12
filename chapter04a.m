@@ -85,7 +85,7 @@ ANTS.favorite_toothpaste_flavor
 % to combine them into a single output (e.g., a cell array), use curly
 % brackets:
 {ANTS.favorite_toothpaste_flavor}
-
+[ANTS.favorite_toothpaste_flavor]
 %% functions
 
 % functions are modular pieces of code stored in a separate file. Most
